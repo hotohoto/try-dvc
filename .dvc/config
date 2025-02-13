@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = ssh://hyheo@10.90.1.16/data/hyheo/dvc_repo

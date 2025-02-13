@@ -1,0 +1,5 @@
+outs:
+- md5: 80de3fc562f40b0112eec2a9a63a13ab
+  size: 12
+  hash: md5
+  path: ship2.txt
